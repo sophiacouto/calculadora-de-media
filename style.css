@@ -2,19 +2,21 @@
     display: flex;
     border: 1px solid #000;
     width: 320px;
-    height: 500px;
+    height: 400px;
     flex-direction: column;
     margin: auto;
     gap: 12px;
     padding: 20px;
 }
 
-.caixa {
+.caixa{
+    height: 40;
+}
+#button{
     height: 40px;
+    background-color: #c5c5fa;
+    color: #f3c8f3;
 }
 
-#button {
-height: 40px;
-    background-color: #2F4F4F;
-    color: #fff;
-}
+
+            
